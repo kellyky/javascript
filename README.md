@@ -1,2 +1,4 @@
 # javascript
-Udacity: Pixel
+Udacity Project. Pixel Art. 
+
+Open index.html file in web browser. 
