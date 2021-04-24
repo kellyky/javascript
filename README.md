@@ -1,16 +1,9 @@
 # Pixel Art Maker Project
+A web-based pixel art maker. Udacity provided the HTML and CSS. The Javascript is mine. 
 
-## Table of Contents
+## Gameplay
+1. Visit https://kellyky.github.io/pixel-art/
+2. Select height, width, color and design away!
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
-
-## Instructions
-
-To get started, open `designs.js` and start building out the app's functionality.
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+## License
+I'm not sure. 
